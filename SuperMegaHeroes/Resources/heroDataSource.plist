@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>1. Yalantis-Man</string>
+		<key>imageName</key>
+		<string>Yalantis2.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>2. Superman</string>
+		<key>imageName</key>
+		<string>superman1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>3. Spider-man</string>
+		<key>imageName</key>
+		<string>spider-man1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>4. Santa</string>
+		<key>imageName</key>
+		<string>santa1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>5. Batman</string>
+		<key>imageName</key>
+		<string>batman1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>6. Robocop</string>
+		<key>imageName</key>
+		<string>robocop1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7. Harry Potter</string>
+		<key>imageName</key>
+		<string>harry potter1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8. Terminator</string>
+		<key>imageName</key>
+		<string>Terminator1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>9. Hulk</string>
+		<key>imageName</key>
+		<string>hulk1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>10. Hellboy</string>
+		<key>imageName</key>
+		<string>hellboy1.png</string>
+	</dict>
+</array>
+</plist>
